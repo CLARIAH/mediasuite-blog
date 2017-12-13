@@ -1,3 +1,2 @@
-# mediasuite-blog
-
-URL: https://clariah.github.io/mediasuite-blog/
+# clariah.github.io/mediasuite-info
+The website of the CLARIAH Media Suite Documentation

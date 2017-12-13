@@ -1,22 +1,18 @@
+//Add a class (active) to the element with class anchor when getting to the top of the page.
+// Also the hash url changes when the user stops scrolling.
 $(window).on('scroll', function () {
-  var scrollTop = $(this).scrollTop() + 120;
-  var anchorsLength = $('.anchor').length;
-  var closest = $('.header').closest('.anchor').find('id');
-   console.log(closest);
-    // console.log('closest: ', closest + ' ');
-  $('.anchor').each(function (index, el) {
- // console.log('index and el', index ,el);
-    var topDistance = $(this).offset().top;
-     // console.log('last', el[index]);
-if(anchorsLength === index+1) {
-  // console.log(el);
-}
-    if ((topDistance + 110) < scrollTop) {
-  // console.log(topDistance , topDistance);
-      // console.log($(this).text());
-      //  console.log('closest', $(this).closest('.anchor').text());
-      //   console.log($(this).parent().parent().attr('id'));
-      //   console.log($(this).offset());
-    }
-  });
+    var anchorElements = $('.anchor');
+    anchorElements.each(function (x, el) {
+
+        var elementID = $(el).parent().parent().attr('id'),
+            eTop = $('#' + elementID).offset().top,
+            elementById = 'a[href="#' + elementID + '"';
+
+        if (eTop - $(window).scrollTop() < 1) {
+            var parser = document.createElement('a');
+            parser.href = location.href;
+            $('.toc').find('.active').removeClass('active');
+            $(elementById).addClass('active');
+        }
+    });
 });

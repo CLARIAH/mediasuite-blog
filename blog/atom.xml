@@ -24,5 +24,4 @@ layout: feed
 		</entry>
 	{% endfor %}
 
-
 </feed>
