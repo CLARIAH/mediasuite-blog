@@ -1,18 +1,41 @@
-//Add a class (active) to the element with class anchor when getting to the top of the page.
-// Also the hash url changes when the user stops scrolling.
-$(window).on('scroll', function () {
-    var anchorElements = $('.anchor');
-    anchorElements.each(function (x, el) {
+var normal = document.getElementById("nav-menu");
+var reverse = document.getElementById("nav-menu-left");
 
-        var elementID = $(el).parent().parent().attr('id'),
-            eTop = $('#' + elementID).offset().top,
-            elementById = 'a[href="#' + elementID + '"';
+var icon = normal !== null ? normal : reverse;
 
-        if (eTop - $(window).scrollTop() < 1) {
-            var parser = document.createElement('a');
-            parser.href = location.href;
-            $('.toc').find('.active').removeClass('active');
-            $(elementById).addClass('active');
-        }
-    });
-});
+// Toggle the "menu-open" % "menu-opn-left" classes
+function toggle() {
+	  var navRight = document.getElementById("nav");
+	  var navLeft = document.getElementById("nav-left");
+	  var nav = navRight !== null ? navRight : navLeft;
+
+	  var button = document.getElementById("menu");
+	  var site = document.getElementById("wrap");
+	  
+	  if (nav.className == "menu-open" || nav.className == "menu-open-left") {
+	  	  nav.className = "";
+	  	  button.className = "";
+	  	  site.className = "";
+	  } else if (reverse !== null) {
+	  	  nav.className += "menu-open-left";
+	  	  button.className += "btn-close";
+	  	  site.className += "fixed";
+	  } else {
+	  	  nav.className += "menu-open";
+	  	  button.className += "btn-close";
+	  	  site.className += "fixed";
+	    }
+	}
+
+// Ensures backward compatibility with IE old versions
+function menuClick() {
+	if (document.addEventListener && icon !== null) {
+		icon.addEventListener('click', toggle);
+	} else if (document.attachEvent && icon !== null) {
+		icon.attachEvent('onclick', toggle);
+	} else {
+		return;
+	}
+}
+
+menuClick();
