@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+tagline: A few more words about this theme
+permalink: /about.html
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+
+You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+
+
+[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
