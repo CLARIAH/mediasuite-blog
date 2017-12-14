@@ -1,9 +1,7 @@
 ---
-layout: feed
----
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
 
+---
+<div>
 	<title>Hank Quinlan's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
@@ -23,5 +21,4 @@ layout: feed
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
-
-</feed>
+</div>
