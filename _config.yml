@@ -3,4 +3,3 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 port: 4444
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
-url: https://clariah.github.io/mediasuite-blog #the url of your site
