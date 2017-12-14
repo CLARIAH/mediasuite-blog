@@ -2,3 +2,4 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 port: 4444
+url: https://clariah.github.io/mediasuite-info #the url of your site
