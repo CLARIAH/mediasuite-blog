@@ -2,5 +2,5 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 port: 4444
-#baseurl: "mediasuite-blog" # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+baseurl: "mediasuite-blog" # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
 # url: /mediasuite-blog #the url of your site
