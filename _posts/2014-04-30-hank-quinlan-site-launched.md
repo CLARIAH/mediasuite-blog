@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Clariah is Blogging"
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean posuere cursus dolor, in lobortis quam ultricies non. Quisque quis ipsum ultrices, tristique sapien tristique, dictum eros. Vestibulum vitae tortor fringilla, vehicula turpis ut, congue dui. In tempus, velit in finibus pellentesque, lacus sem rhoncus eros, a euismod nunc turpis dignissim quam. Curabitur elementum velit turpis, in fringilla tellus aliquam venenatis. Vestibulum dictum maximus mi, ut pretium dui varius et. In hac habitasse platea dictumst. Donec vitae leo ut sapien lobortis pulvinar.
