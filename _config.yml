@@ -1,4 +1,4 @@
-name: Hank Quinlan, Horrible Cop
+name: Clariah Mediasuite Blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 port: 4444
