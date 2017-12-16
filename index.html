@@ -7,12 +7,14 @@ title: Media Suite Blog
     <div class="posts">
       {% for post in site.posts %}
       <div class="post">
+          <i class="fa fa-calendar" aria-hidden="true"></i>
           <h4><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}
           </a></h4>
 
           <span>{{ post.date | date_to_string }}</span>
       <p>{{ post.introduction }}</p>
       </div>
+        <hr>
       {% endfor %}
     </div>
 </div>
