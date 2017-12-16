@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CLARIN-PLUS workshop on Oral History"
+introduction: "From 10-12 May 2017, CLARIAH WP5 attended a two-day CLARIN-PLUS workshop in Arezzo to discuss the development of an automatic transcription chain for Oral History that eventually could be integrated into the CLARIN infrastructure. The automatic chain…"
 date: 2017-5-12
 ---
 

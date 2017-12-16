@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CLARIAH Media Studies and MIMEHIST in Zürich – A Report"
+introduction: "Early September, Liliana Melgar and I received an invitation from Barbara Flückiger, Professor in Film Studies at the University of Zürich, to participate in the “Colloquium Visualization Strategies for the Digital Humanities”. The aim of…"
 date: 2017-10-17
 ---
 

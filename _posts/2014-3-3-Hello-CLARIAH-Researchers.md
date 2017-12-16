@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello CLARIAH Researchers!"
+introduction: "In the CLARIAH-board meeting of February 22, 2017 16 Pilot Research Projects were approved, six of them within the Media Studies focus. We welcome the pilot winner scholars to our team during the launch of…"
 date: 2017-3-24
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing MIMEHIST: Annotating EYE’s Jean Desmet Collection"
+introduction: "This is a cross-posting of a post that I just wrote for my research blog Film History in the Making. I repost it here as the first in a series of blog posts I will write…"
 date: 2017-8-31
 ---
 

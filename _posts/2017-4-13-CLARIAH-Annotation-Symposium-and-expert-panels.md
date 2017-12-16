@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CLARIAH Annotation Symposium and expert panels"
+introduction: "CLARIAH Media Studies focus invites to a two-day symposium and expert meetings around the topic of scholarly annotations of text, image, and audio-visual materials. This annotation symposium aims to bring together different groups and individuals…"
 date: 2017-4-13
 ---
 
