@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reportage of the launching of the Media Suite and the CLARIAH Media studies research pilots in the E-Data & Research magazine"
+imageUrl: "edata-reportage-655x480.jpeg"
 introduction: "The third issue of the “E-Data & Research” magazine this year brings a reportage of the Media Suite launching event on April 4, 2017, when the CLARIAH media studies team celebrated the debut of the…"
 date: 2017-7-17
 ---
@@ -9,13 +10,6 @@ date: 2017-7-17
 		<div class="post-entry-media">
     	<a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/2017/07/07/reportage-of-the-launching-of-the-media-suite-and-the-clariah-media-studies-research-pilots-at-the-e-data-research-magazine/" title="Reportage of the launching of the Media Suite and the CLARIAH Media studies research pilots in the E-Data &amp; Research magazine"><img width="655" height="480" src="http://rdbg.tuxic.nl/clariahwp5/wordpress/wp-content/uploads/2017/07/edata-reportage-655x480.jpeg" class="attachment-great-image-header size-great-image-header wp-post-image" alt="edata-reportage" srcset="http://rdbg.tuxic.nl/clariahwp5/wordpress/wp-content/uploads/2017/07/edata-reportage-655x480.jpeg 655w, http://rdbg.tuxic.nl/clariahwp5/wordpress/wp-content/uploads/2017/07/edata-reportage-300x220.jpeg 300w, http://rdbg.tuxic.nl/clariahwp5/wordpress/wp-content/uploads/2017/07/edata-reportage-768x563.jpeg 768w, http://rdbg.tuxic.nl/clariahwp5/wordpress/wp-content/uploads/2017/07/edata-reportage-1024x751.jpeg 1024w" sizes="(max-width: 655px) 100vw, 655px"></a>
     </div>
-
-
-	<header class="entry-header">
-		<h1 class="entry-title">Reportage of the launching of the Media Suite and the CLARIAH Media studies research pilots in the E-Data &amp; Research magazine</h1>
-		<div class="entry-meta">
-			<span class="posted-on"><i class="fa fa-calendar"></i> <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/2017/07/07/reportage-of-the-launching-of-the-media-suite-and-the-clariah-media-studies-research-pilots-at-the-e-data-research-magazine/" rel="bookmark"><time class="entry-date published" datetime="2017-07-07T05:45:26+00:00">July 7, 2017</time><time class="updated" datetime="2017-07-07T07:29:59+00:00">July 7, 2017</time></a></span>		</div><!-- .entry-meta -->
-	</header><!-- .entry-header -->
 
 	<div class="entry-content">
 		<p>The third issue of the <a href="https://www.edata.nl/">“E-Data &amp; Research” magazine</a> this year brings a <a href="https://www.edata.nl/1103/pdf/1103_7.pdf">reportage of the Media Suite launching event on April 4, 2017</a>, when the CLARIAH media studies team celebrated the debut of the first version with a welcoming session to the project leaders and team members of the six CLARIAH pilot projects.</p>
