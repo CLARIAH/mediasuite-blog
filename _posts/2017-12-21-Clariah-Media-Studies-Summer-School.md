@@ -9,8 +9,6 @@ date: 2017-12-20
 <article id="post-13" class="post-13 post type-post status-publish format-image has-post-thumbnail hentry category-ms-in-the-news tag-media-suite tag-public_news post_format-post-format-image">
 		<div class="post-entry-media">
 
-
-<img src="/img/posts/edata-reportage-655x480.jpeg" alt="edata-reportage">
     </div>
 
 	<div class="entry-content">
@@ -22,5 +20,5 @@ date: 2017-12-20
 	<footer class="entry-footer">
 		<span class="byline"><i class="fa fa-user"></i> 	<span class="author vcard">
 				<a class="url fn n" href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/author/lilimelgar/">
-				Liliana Melgar</a></span></span><span class="cat-links"><i class="fa fa-folder"></i> <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/category/ms-in-the-news/" rel="category tag">MS in the news</a></span><span class="tags-links"><i class="fa fa-tags"></i> <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/tag/media-suite/" rel="tag">media suite</a>, <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/tag/public_news/" rel="tag">public_news</a></span>	</footer><!-- .entry-footer -->
+				Liliana Melgar</a></span></span><span class="cat-links"><i class="fa fa-folder"></i> <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/category/ms-in-the-news/" rel="category tag">Events</a></span><span class="tags-links"><i class="fa fa-tags"></i> <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/tag/media-suite/" rel="tag">media suite</a>, <a href="http://rdbg.tuxic.nl/clariahwp5/wordpress/index.php/tag/public_news/" rel="tag">public_news</a></span>	</footer><!-- .entry-footer -->
 </article>
