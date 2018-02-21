@@ -11,7 +11,7 @@ date: 2017-7-17
 
 
 <p style="text-align: center">~</p>
-<p><img class=" wp-image-1121 aligncenter" src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/edata-reportage-655x480.jpeg?raw=true" alt="IMG_8579" width="500" height="375"></p>
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/edata-reportage-655x480.jpeg?raw=true" align="middle" alt="IMG_edata-reportage" width="500" height="375"></p>
 <p style="text-align: center">Article on "E-data & Research magazine".</p>
 <p style="text-align: center">~</p>
 
