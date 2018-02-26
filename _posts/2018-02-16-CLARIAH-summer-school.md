@@ -13,12 +13,26 @@ date: 2018-02-16
 <p class="p1"><span class="s3"><strong>Description</strong></span></p>
 <p class="p1"><span class="s1">This one-week event, organized by CLARIAH (Media studies team) introduces scholars from different domains to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important <em>Dutch</em> audio-visual collections and their contextual data.&nbsp;</span></p>
 <p class="p1"><span class="s1">In the summer school, you can work in small groups with scholars (e.g., media scholars and historians), information experts, and other participants on small research projects using digital tools provided in the CLARIAH Media suite (<a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=1c03ddfa2c&amp;e=945d5a62a7"><span class="s4">http://mediasuite.clariah.nl/</span></a>) and other tools. </span><span class="s1">The Media Suite offers a user-friendly research environment with tools that support the research process, following the principles of data transparency. It provides &nbsp;a user-friendly way of working with manual &amp; automatic annotations and enrichments (such as automatic speech recognition). In the summer school, participants will have tutorials about using the Media Suite in combination with other tools for data analysis and visualization.</span></p>
-<p class="p1"><span class="s1">The keynote speakers are Eric Hoyt and Dana Mustata. </span></p>
-<p class="p1"><span class="s1"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_eric-hoyt.jpg?raw=true" alt="Eric Hoyt" width="400" height="323" /></span></p>
-<p class="p1"><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</p>
-<p class="p1"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_dana_mustata.jpg?raw=true" alt="Dana Mustata" width="400" height="267" /></p>
-<p class="p1"><a href="https://www.rug.nl/staff/d.mustata/">Dana Mustata</a> (Keynote speaker, July 6)</p>
+<p class="p1"><span class="s1">The keynote speakers are Eric Hoyt and Dana Mustata.</span></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p class="p1"><span class="s1"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_eric-hoyt.jpg?raw=true" alt="Eric Hoyt" width="349" height="282" /></span></p>
+</td>
+<td><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_dana_mustata.jpg?raw=true" alt="Dana Mustata" width="400" height="267" /></td>
+</tr>
+<tr>
+<td><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</td>
+<td>&nbsp;<a href="https://www.rug.nl/staff/d.mustata/">Dana Mustata</a> (Keynote speaker, July 6)</td>
+</tr>
+</tbody>
+</table>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
 <p class="p1"><span class="s1">Project work will be supported by leading digital humanities experts and media scholars, including <em>Julia Noordegraaf, Roeland Ordelman, Lora Aroyo, Marijn Koolen, Jaap Blom, Willem Melder, Jasmijn van Gorp, Thomas Poell, Eva Baaren, Norah Karrouche, Kaspar Beelen, Liliana Melgar, Victor de Boer, Carlos Mart&iacute;nez Ort&iacute;z. Participants will have the possibility to work together with the CLARIAH research pilot projects scholars, including M</em></span><em>arcel Broersma, Susan Aasman, Susan Hoogervorst, Christian Olesen, Sabrina Sauer, Berber Hagedoorn, Berrie van der Molen</em>, among others.</p>
+<p class="p3"><span class="s1"><strong>Program</strong><em> (detailed version coming soon)</em></span></p>
+<p><img src="https://cdn.evbuc.com/eventlogos/183846343/screenshot20171113at14.06.41.png" alt="Schedule" /></p>
 <p class="p3"><span class="s1"><strong>Registration</strong></span></p>
 <p class="p1"><span class="s1">The registration for the CLARIAH Media studies summer school (July 2-6, 2018) is open! You can register to this one-week event at:<span class="s4"> <a href="https://goo.gl/fBA4wx">https://goo.gl/fBA4wx</a><a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=176590124e&amp;e=945d5a62a7">.&nbsp;</a></span></span><span class="s1"><span class="s4">Registration is free but places for full participation are limited.</span></span></p>
 <p class="p3"><span class="s1"><strong>Participation</strong></span></p>
