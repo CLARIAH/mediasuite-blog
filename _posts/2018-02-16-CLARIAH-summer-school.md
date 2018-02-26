@@ -6,7 +6,6 @@ date: 2018-02-16
 ---
 
 <div class="entry-content">
-<p><span class="s3"><strong>CLARIAH SUMMER SCHOOL</strong></span></p>
 <p class="p1"><span class="s3"><strong><span class="s1">Location:&nbsp;&nbsp;</span></strong></span><span class="s1">The Netherlands Institute for Sound and Vision (</span><span class="s1">Hilversum, The Netherlands)</span></p>
 <p class="p1"><span class="s1"><strong>Date</strong>: July 2-6, 2018</span></p>
 <p class="p1"><span class="s1"><strong>Registration</strong>:&nbsp;</span><span class="s1"><span class="s2"><a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=5ff303ca5d&amp;e=945d5a62a7">https://goo.gl/fBA4w</a></span></span></p>
