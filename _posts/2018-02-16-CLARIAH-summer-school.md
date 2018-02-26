@@ -14,17 +14,17 @@ date: 2018-02-16
 <p class="p1"><span class="s1">This one-week event, organized by CLARIAH (Media studies team) introduces scholars from different domains to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important <em>Dutch</em> audio-visual collections and their contextual data.&nbsp;</span></p>
 <p class="p1"><span class="s1">In the summer school, you can work in small groups with scholars (e.g., media scholars and historians), information experts, and other participants on small research projects using digital tools provided in the CLARIAH Media suite (<a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=1c03ddfa2c&amp;e=945d5a62a7"><span class="s4">http://mediasuite.clariah.nl/</span></a>) and other tools. </span><span class="s1">The Media Suite offers a user-friendly research environment with tools that support the research process, following the principles of data transparency. It provides &nbsp;a user-friendly way of working with manual &amp; automatic annotations and enrichments (such as automatic speech recognition). In the summer school, participants will have tutorials about using the Media Suite in combination with other tools for data analysis and visualization.</span></p>
 <p class="p1"><span class="s1">The keynote speakers are Eric Hoyt and Dana Mustata.</span></p>
-<table>
+<table style="width: 801px;">
 <tbody>
 <tr>
-<td>
+<td style="width: 399px;">
 <p class="p1"><span class="s1"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_eric-hoyt.jpg?raw=true" alt="Eric Hoyt" width="349" height="282" /></span></p>
 </td>
-<td><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_dana_mustata.jpg?raw=true" alt="Dana Mustata" width="400" height="267" /></td>
+<td style="width: 388px;"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_dana_mustata.jpg?raw=true" alt="Dana Mustata" width="400" height="267" /></td>
 </tr>
 <tr>
-<td><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</td>
-<td>&nbsp;<a href="https://www.rug.nl/staff/d.mustata/">Dana Mustata</a> (Keynote speaker, July 6)</td>
+<td style="width: 399px;"><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</td>
+<td style="width: 388px;">&nbsp;<a href="https://www.rug.nl/staff/d.mustata/">Dana Mustata</a> (Keynote speaker, July 6)</td>
 </tr>
 </tbody>
 </table>
