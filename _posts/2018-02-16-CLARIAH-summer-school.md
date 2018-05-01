@@ -28,7 +28,6 @@ date: 2018-02-16
 </tbody>
 </table>
 <p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;</p>
 <p class="p1"><span class="s1">Project work will be supported by leading digital humanities experts and media scholars, including <em>Julia Noordegraaf, Roeland Ordelman, Lora Aroyo, Marijn Koolen, Jaap Blom, Willem Melder, Jasmijn van Gorp, Thomas Poell, Eva Baaren, Norah Karrouche, Kaspar Beelen, Liliana Melgar, Victor de Boer, Carlos Mart&iacute;nez Ort&iacute;z. Participants will have the possibility to work together with the CLARIAH research pilot projects scholars, including M</em></span><em>arcel Broersma, Susan Aasman, Susan Hoogervorst, Christian Olesen, Sabrina Sauer, Berber Hagedoorn, Berrie van der Molen</em>, among others.</p>
 <p class="p3"><span class="s1"><strong>Program</strong><em> (detailed version coming soon)</em></span></p>
 <p><img src="https://cdn.evbuc.com/eventlogos/183846343/screenshot20171113at14.06.41.png" alt="Schedule" /></p>
@@ -41,4 +40,6 @@ date: 2018-02-16
 <li class="li1"><span class="s6"><strong>First and final day participation</strong></span><span class="s1">: during which the CLARIAH Media Suite, the pilot projects, and summer school research projects will be presented. The keynotes by Eric Hoyt and Dana Mustata are scheduled on these two days. Registration is open up to 180 participants.</span></li>
 </ul>
 <p class="p1"><span class="s1">This event is organized by the CLARIAH Media Studies team (<a title="WP5" href="https://clariah.nl/over/wie-is-wie">WP5</a>), main responsible organizers: Thomas Poell, Julia Noordegraaf, and Liliana Melgar. For practical matters you can contact:&nbsp;</span><span class="s1">Liliana Melgar (<a href="mailto:melgar@uva.nl?subject=Media%20Studies%20Summer%20school&amp;body=Dear%20Liliana%2C%0A"><span class="s7">melgar@uva.nl</span></a> ) or Charley Smeets (<a href="mailto:csmeets@beeldengeluid.nl?subject=Media%20Studies%20Summer%20school&amp;body=Dear%20Charley%2C%0A"><span class="s7">csmeets@beeldengeluid.nl</span></a>)</span></p>
+<p>
+Follow us on Facebook, Twitter (@clariah.nl), in our media studies blog, or in in the CLARIAH website: clariah.nl. </p>
 			</div>
