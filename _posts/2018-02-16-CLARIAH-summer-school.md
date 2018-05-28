@@ -32,7 +32,7 @@ date: 2018-02-16
 <p class="p3"><span class="s1"><strong>Program</strong><em> (detailed version coming soon)</em></span></p>
 <p><img src="https://cdn.evbuc.com/eventlogos/183846343/screenshot20171113at14.06.41.png" alt="Schedule" /></p>
 <p class="p3"><span class="s1"><strong>Registration</strong></span></p>
-<p class="p1"><span class="s1">The registration for the CLARIAH Media studies summer school (July 2-6, 2018) is open! You can register to this one-week event at:<span class="s4"> <a href="https://goo.gl/fBA4wx">https://goo.gl/fBA4wx</a><a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=176590124e&amp;e=945d5a62a7">.&nbsp;</a></span></span><span class="s1"><span class="s4">Registration is free but places for full participation are limited.</span></span></p>
+<p class="p1"><span class="s1">The registration for the CLARIAH Media studies summer school (July 2-6, 2018) is open! You can register to this one-week event at:<span class="s4"> <a href="https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823">https://goo.gl/fBA4wx</a><a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=176590124e&amp;e=945d5a62a7">.&nbsp;</a></span></span><span class="s1"><span class="s4">Registration is free but places for full participation are limited.</span></span></p>
 <p class="p3"><span class="s1"><strong>Participation</strong></span></p>
 <p class="p1"><span class="s1">There are two types of participation:</span></p>
 <ul class="ul1">
