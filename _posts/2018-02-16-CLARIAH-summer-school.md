@@ -4,11 +4,10 @@ title: "CLARIAH Summer school: July 2-6, 2018"
 introduction: "This one-week event organized by CLARIAH (Media studies work package) introduces scholars to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important Dutch audio-visual collections and their contextual data. Registration is free but places for full participation are limited."
 date: 2018-02-16
 ---
-
 <div class="entry-content">
 <p class="p1"><span class="s3"><strong><span class="s1">Location:&nbsp;&nbsp;</span></strong></span><span class="s1">The Netherlands Institute for Sound and Vision (</span><span class="s1">Hilversum, The Netherlands)</span></p>
 <p class="p1"><span class="s1"><strong>Date</strong>: July 2-6, 2018</span></p>
-<p class="p1"><span class="s1"><strong>Registration</strong>:&nbsp;</span><span class="s1"><span class="s2"><a href="https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823">https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823</a></span></span></p>
+<p class="p1"><span class="s1"><strong>Registration</strong>: Via <a href="https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823">EventBrite.</a></span></p>
 <p class="p1"><span class="s1">This one-week event, organized by CLARIAH (Media studies team) introduces scholars from different domains to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important <em>Dutch</em> audio-visual collections and their contextual data.&nbsp;</span></p>
 <p class="p1"><span class="s1">In the summer school, participants will follow tutorials about using the CLARIAH Media suite in combination with other tools for data analysis and visualization. </span><span class="s1">The Media Suite (<a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=1c03ddfa2c&amp;e=945d5a62a7"><span class="s4">http://mediasuite.clariah.nl/</span></a>) offers a user-friendly research environment with tools that support the research process, following the principles of data transparency. It provides facilities to search, browse, and work with manual &amp; and automatic annotations and enrichments (such as automatic speech recognition). In the summer school, you will work in small groups with scholars (e.g., media scholars and historians), information experts, and other participants on small research projects.</span></p>
 <h2 class="p1"><span class="s1">Keynote speakers</span></h2>
@@ -32,15 +31,16 @@ date: 2018-02-16
 <td style="width: 64px;">
 <p>&nbsp;</p>
 </td>
-<td style="width: 654px;">&nbsp;Digital media scholar Erik Hoyt,&nbsp;lead developer of <a href="http://lantern.mediahist.org" target="_blank" rel="noopener">Lantern</a>, the Media History Digital Library's search platform, and <a href="http://search.projectarclight.org">Arcligh</a>t, a data analytics and visualization app for the MHDL's collection. He will tell the story of this project and will share some brand new research related to the a project no one has seen before!</td>
+<td style="width: 654px;">Digital media scholar Erik Hoyt,&nbsp;lead developer of <a href="http://lantern.mediahist.org" target="_blank" rel="noopener">Lantern</a>, the Media History Digital Library's search platform, and <a href="http://search.projectarclight.org">Arclight</a>, a data analytics and visualization app for the MHDL's collection. He will tell the story of the MHDL and will share some brand new research!</td>
 <td style="width: 255px;">&nbsp;</td>
 <td style="width: 938px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<h2 class="p3"><span class="s1"><strong>Program</strong><em> (detailed version <a title="Detailed summer school program" href="https://docs.google.com/document/d/e/2PACX-1vROze38xrWA8TcFUVn75VBqBvuU2cEWZJ8SIgceuY-dcsmvEySXHvRuWJZrk-t1U3Qz_D20KAGM7gXu/pub">here</a>)</em></span></h2>
-<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_program-overview.png?raw=true" alt="Program overview" width="676" height="314" /></p>
-<h3><strong>Crash courses</strong></h3>
+<h2 class="p3"><span class="s1"><strong>Program</strong> </span></h2>
+<p class="p3"><span class="s1"><em><a title="Detailed summer school program" href="https://docs.google.com/document/d/e/2PACX-1vROze38xrWA8TcFUVn75VBqBvuU2cEWZJ8SIgceuY-dcsmvEySXHvRuWJZrk-t1U3Qz_D20KAGM7gXu/pub">See updated detailed version here</a></em></span></p>
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_program-overview.png?raw=true" alt="Program overview" width="811" height="374" /></p>
+<h3><strong>Short Lessons</strong></h3>
 <table style="width: 827px;">
 <tbody>
 <tr>
