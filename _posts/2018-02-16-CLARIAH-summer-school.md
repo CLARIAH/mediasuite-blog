@@ -5,6 +5,7 @@ introduction: "This one-week event organized by CLARIAH (Media studies work pack
 date: 2018-02-16
 ---
 <div class="entry-content">
+<p class="p1"><span class="s3"><strong><span class="s1"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_SummerSchoolLogos.jpg?raw=true" alt="Summer school logos" width="274" height="189" /></span></strong></span></p>
 <p class="p1"><span class="s3"><strong><span class="s1">Location:&nbsp;&nbsp;</span></strong></span><span class="s1">The Netherlands Institute for Sound and Vision (</span><span class="s1">Hilversum, The Netherlands)</span></p>
 <p class="p1"><span class="s1"><strong>Date</strong>: July 2-6, 2018</span></p>
 <p class="p1"><span class="s1"><strong>Registration</strong>: Via <a href="https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823">EventBrite.</a></span></p>
