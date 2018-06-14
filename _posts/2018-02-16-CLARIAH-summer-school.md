@@ -1,10 +1,4 @@
----
-layout: post
-title: "CLARIAH Summer school: July 2-6, 2018"
-introduction: "This one-week event organized by CLARIAH (Media studies work package) introduces scholars to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important Dutch audio-visual collections and their contextual data. Registration is free but places for full participation are limited."
-date: 2018-02-16
----
-
+<p>--- layout: post title: "CLARIAH Summer school: July 2-6, 2018" introduction: "This one-week event organized by CLARIAH (Media studies work package) introduces scholars to the CLARIAH Media Suite and other tools which support the exploration, search and analysis of important Dutch audio-visual collections and their contextual data. Registration is free but places for full participation are limited." date: 2018-02-16 ---</p>
 <div class="entry-content">
 <p class="p1"><span class="s3"><strong><span class="s1">Location:&nbsp;&nbsp;</span></strong></span><span class="s1">The Netherlands Institute for Sound and Vision (</span><span class="s1">Hilversum, The Netherlands)</span></p>
 <p class="p1"><span class="s1"><strong>Date</strong>: July 2-6, 2018</span></p>
@@ -22,15 +16,56 @@ date: 2018-02-16
 <td style="width: 388px;"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_dana_mustata.jpg?raw=true" alt="Dana Mustata" width="400" height="267" /></td>
 </tr>
 <tr>
-<td style="width: 399px;"><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</td>
+<td style="width: 399px;">
+<p><a href="https://commarts.wisc.edu/people/ehoyt">Erik Hoyt</a>&nbsp;(Keynote speaker, July 2)</p>
+<p>Digital media scholar Erik Hoyt,&nbsp;lead developer of <a href="http://lantern.mediahist.org" target="_blank" rel="noopener">Lantern</a>, the Media History Digital Library's search platform, and <a href="http://search.projectarclight.org">Arcligh</a>t, a data analytics and visualization app for the MHDL's collection. He will tell the story of this project and will share some brand new research related to the a project no one has seen before!</p>
+</td>
 <td style="width: 388px;">&nbsp;<a href="https://www.rug.nl/staff/d.mustata/">Dana Mustata</a> (Keynote speaker, July 6)</td>
 </tr>
 </tbody>
 </table>
 <p class="p1">&nbsp;</p>
 <p class="p1"><span class="s1">Project work will be supported by leading digital humanities experts and media scholars, including <em>Julia Noordegraaf, Roeland Ordelman, Lora Aroyo, Marijn Koolen, Jaap Blom, Willem Melder, Jasmijn van Gorp, Thomas Poell, Eva Baaren, Norah Karrouche, Kaspar Beelen, Liliana Melgar, Victor de Boer, Carlos Mart&iacute;nez Ort&iacute;z. Participants will have the possibility to work together with the CLARIAH research pilot projects scholars, including M</em></span><em>arcel Broersma, Susan Aasman, Susan Hoogervorst, Christian Olesen, Sabrina Sauer, Berber Hagedoorn, Berrie van der Molen</em>, among others.</p>
-<p class="p3"><span class="s1"><strong>Program</strong><em> (detailed version coming soon)</em></span></p>
-<p><img src="https://cdn.evbuc.com/eventlogos/183846343/screenshot20171113at14.06.41.png" alt="Schedule" /></p>
+<p class="p3"><span class="s1"><strong>Program</strong><em> (detailed version <a title="Detailed summer school program" href="https://docs.google.com/document/d/e/2PACX-1vROze38xrWA8TcFUVn75VBqBvuU2cEWZJ8SIgceuY-dcsmvEySXHvRuWJZrk-t1U3Qz_D20KAGM7gXu/pub">here</a>)</em></span></p>
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-06-14_summer-school-program-overview.png?raw=true" alt="Schedule" /></p>
+<p><strong>Summer school short courses</strong></p>
+<table style="width: 675px;">
+<tbody>
+<tr>
+<td style="width: 202px;">Lesson 1: Search strategies, data and tool criticism</td>
+<td style="width: 97px;">
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_marijn_koolen.png?raw=true" alt="Marijn Koolen" width="85" height="99" />&nbsp;</p>
+</td>
+<td style="width: 368px;"><a title="Marijn Koolen" href="http://marijnkoolen.com/#/">Marijn Koolen</a>, senior researcher and scientific programer in the field of Digital Humanities, Information retrieval and Information Science will introduce the participants to the principles of search and information retrieval, data and tool criticism.</td>
+</tr>
+<tr>
+<td style="width: 202px;">Lesson 2:&nbsp;Qualitative data analysis and scholarly annotations</td>
+<td style="width: 97px;">
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_LilianaMelgar.jpg?raw=true" alt="Liliana Melgar" width="86" height="91" /></p>
+</td>
+<td style="width: 368px;"><a title="Liliana Melgar" href="http://www.uva.nl/en/profile/m/e/l.m.melgar/l.m.melgar-estrada.html?search=liliana+melgar&amp;origin=XPp9OJ9KReucxCtM%2FFAngA">Liliana Melgar</a>, postdoctoral researcher in the field of Information Science, will introduce the participants to the methods of computed-assisted qualitative data analysis, and to the audio-visual annotation tool offered by the CLARIAH Media Suite.</td>
+</tr>
+<tr>
+<td style="width: 202px;">Lesson 3:&nbsp;Introduction to Automatic Speech Recognition technologies</td>
+<td style="width: 97px;">
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_roelandOrdelman.png?raw=true" alt="Roeland Ordelman" width="93" height="93" /></p>
+</td>
+<td style="width: 368px;"><a title="Roeland Ordelman" href="https://roelandordelman.nl/">Roeland Ordelman</a>, technical coordinator of the audio-visual services in the CLARIAH infrastructure, expert on hypervideo and automatic speech recognition (ASR), will introduce the participants to the fundamentals of ASR and the ASR services offered by CLARIAH.</td>
+</tr>
+<tr>
+<td style="width: 202px;">Lesson 4:&nbsp; Introduction to data visualization</td>
+<td style="width: 97px;">
+<p><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_hugohuurdeman.png?raw=true" alt="Hugo Huurdeman" width="88" height="88" /></p>
+</td>
+<td style="width: 368px;"><a title="Hugo Huurdeman" href="https://www.timelessfuture.com/">Hugo Huurdeman</a>, PhD in the field of Information Science, and leader of the "Visual Navigation Project" at the University of Oslo, will introduce the participants to the fundamentals of data visualization and to useful tips and tools for digital humanists.</td>
+</tr>
+<tr>
+<td style="width: 202px;">Lesson 5:&nbsp;Introduction to data visualizations with a Jupyter Notebook</td>
+<td style="width: 97px;"><img src="https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-02-16_carlosMartinez.png?raw=true" alt="Carlos Martinez" width="90" height="90" /></td>
+<td style="width: 368px;"><a title="Carlos Martinez" href="https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz">Carlos Mart&iacute;nez</a>, research software engineer at the Netherlands eScienceCenter, will show the potentials of using Python programming via a Jupyter notebook for visualizing and analyzing data.</td>
+</tr>
+</tbody>
+</table>
 <p class="p3"><span class="s1"><strong>Registration</strong></span></p>
 <p class="p1"><span class="s1">The registration for the CLARIAH Media studies summer school (July 2-6, 2018) is open! You can register to this one-week event at:<span class="s4"> <a href="https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823">https://www.eventbrite.com/e/clariah-media-studies-summer-school-tickets-39831076823</a><a href="https://clariah.us7.list-manage.com/track/click?u=4aa8a65873d3ffafe259b732d&amp;id=176590124e&amp;e=945d5a62a7">.&nbsp;</a></span></span><span class="s1"><span class="s4">Registration is free but places for full participation are limited.</span></span></p>
 <p class="p3"><span class="s1"><strong>Participation</strong></span></p>
@@ -40,6 +75,5 @@ date: 2018-02-16
 <li class="li1"><span class="s6"><strong>First and final day participation</strong></span><span class="s1">: during which the CLARIAH Media Suite, the pilot projects, and summer school research projects will be presented. The keynotes by Eric Hoyt and Dana Mustata are scheduled on these two days. Registration is open up to 180 participants.</span></li>
 </ul>
 <p class="p1"><span class="s1">This event is organized by the CLARIAH Media Studies team (<a title="WP5" href="https://clariah.nl/over/wie-is-wie">WP5</a>), main responsible organizers: Thomas Poell, Julia Noordegraaf, and Liliana Melgar. For practical matters you can contact:&nbsp;</span><span class="s1">Liliana Melgar (<a href="mailto:melgar@uva.nl?subject=Media%20Studies%20Summer%20school&amp;body=Dear%20Liliana%2C%0A"><span class="s7">melgar@uva.nl</span></a> ) or Charley Smeets (<a href="mailto:csmeets@beeldengeluid.nl?subject=Media%20Studies%20Summer%20school&amp;body=Dear%20Charley%2C%0A"><span class="s7">csmeets@beeldengeluid.nl</span></a>)</span></p>
-<p>
-Follow us on Facebook, Twitter (@clariah.nl), in our media studies blog, or in in the CLARIAH website: clariah.nl. </p>
-			</div>
+<p>Follow us on Facebook, Twitter (@clariah.nl), in our media studies blog, or in in the CLARIAH website: clariah.nl.</p>
+</div>
