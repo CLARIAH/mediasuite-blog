@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CLARIAH Expert Meeting on Video Annotation Interoperability."
+introduction: "CLARIAH had the pleasure to organize a two-day face-to-face expert meeting and workshop that aimed to improve annotation interoperability within the CLARIAH infrastructure as well as with external annotation tools. The meeting took place on July 12-13 in Amsterdam.."
 date: 2018-07-11
 ---
 
@@ -17,6 +18,10 @@ As an infrastructure project, CLARIAH aims to support humanities scholars in the
 In CLARIAH Plus (2019-2023), one of the aims is to increase the support for the creation and exchange of annotation data between applications. Thus, as a follow-up to the previous activities, and as a way to initiate the next phase of CLARIAH, we decided to focus on interoperability of annotations, of audio-visual sources to begin with. Our aim is to try to facilitate data interoperability between the tools that are commonly used by scholars in their work, and to try to come up with an exchange format for scholarly annotations of audio-visual data based on the [W3C annotation model](https://www.w3.org/TR/annotation-model/). 
 
 For this reason, expert software developers of audiovisual annotation tools gathered in Amsterdam during those two days in July 2018, to discuss the interoperability between their tools. One important distinction we made in this work was between data interoperability based on data models and facilitating interoperability at the semantic level (which we did not tackle in this meeting). As Walkowsky (2016) clarifies: “knowledge about structure and properties of annotations is one thing, knowledge about concepts which are used in annotations is another.”
+
+![Participants Annotation Expert Meeting](https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-07-11_annotation-expert-meeting1.jpg?raw=true "2018-07-11_annotation-expert-meeting1.jpg")
+
+![Participants Annotation Expert Meeting](https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-07-11_annotation-expert-meeting3.jpg?raw=true "2018-07-11_annotation-expert-meeting3.jpg")
 
 The participants of the expert meeting were the programmers of applications that are being developed in important projects in the Humanities where audio-visual media is at the center. The experts who participated in this meeting were:
 
@@ -48,8 +53,6 @@ These topics were grouped into four themes, and participants worked in groups on
 2. User projects (so-called “hermeneutic units” by scholars) vs. annotation collections, and how tiers relate to these.
 3. Provenance and context: Where, by whom, and how annotations were made.
 4. Annotation content and motivation: what the content of an annotation looks like or can contain, such as a code, a plain text string, a URI to an external term from a vocabulary, etc. 
-
- 
 
 In the second day, participants summarized the main conclusions of the previous day, and came up with concrete test cases to start exploring options for interoperability. Based on the W3C annotation model, the participants worked on possible cross-walks, i.e. alignments of the key elements that their tools and data models use, so that annotation data can be exchanged. The idea of this second group exercise was to compare, per tool, how each of them will deal with the following cases when exporting/importing:
 
