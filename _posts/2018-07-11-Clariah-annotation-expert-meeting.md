@@ -21,8 +21,6 @@ For this reason, expert software developers of audiovisual annotation tools gath
 
 ![Participants Annotation Expert Meeting](https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-07-11_annotation-expert-meeting1.jpg?raw=true "2018-07-11_annotation-expert-meeting1.jpg")
 
-![Participants Annotation Expert Meeting](https://github.com/CLARIAH/mediasuite-blog/blob/master/img/posts/2018-07-11_annotation-expert-meeting3.jpg?raw=true "2018-07-11_annotation-expert-meeting3.jpg")
-
 The participants of the expert meeting were the programmers of applications that are being developed in important projects in the Humanities where audio-visual media is at the center. The experts who participated in this meeting were:
 
 - Marijn Koolen (KNAW Humanities cluster), developer of one of the CLARIAH annotation tools
