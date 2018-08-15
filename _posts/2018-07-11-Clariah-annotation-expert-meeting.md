@@ -60,7 +60,7 @@ In the second day, participants summarized the main conclusions of the previous 
 
 This exercise brought some major hurdles to the surface, but also generated potential solutions and future plans for improving annotation data interoperability between the involved tools. The participants, besides agreeing on the importance of seeking interoperability to support scholars in their work, also agreed on that this is needed for preserving annotation data for archival purposes, since it is common that scholarly annotations are lost when tools are no longer supported.
 
-The meeting concluded by listing the most important challenges and tasks for next encounter, which will most likely take place in Spring 2019. As preparation for the follow-up meeting, the developers in this group of experts will be collaboratively working on developing the test cases further, and in conducting these interoperability tests with their data.    More information can be found in the project GitHub repository: https://github.com/CLARIAH/video-annotation-interoperability.
+The meeting concluded by listing the most important challenges and tasks for next encounter, which will most likely take place in Spring 2019. As preparation for the follow-up meeting, the developers in this group of experts will be collaboratively working on developing the test cases further, and in conducting these interoperability tests with their data.    More information can be found in the project [GitHub repository](https://github.com/CLARIAH/video-annotation-interoperability).
 
 REFERENCES
 
