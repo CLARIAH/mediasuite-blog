@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CLARIAH Expert Meeting on Video Annotation Interoperability."
-introduction: "CLARIAH had the pleasure to organize a two-day face-to-face expert meeting and workshop that aimed to improve annotation interoperability within the CLARIAH infrastructure as well as with external annotation tools. The meeting took place on July 12-13 in Amsterdam.."
+introduction: "CLARIAH had the pleasure to organize a two-day face-to-face expert meeting and workshop that aimed to improve annotation interoperability within the CLARIAH infrastructure as well as with external annotation tools. The meeting took place on July 12-13 in Amsterdam."
 date: 2018-07-11
 ---
 

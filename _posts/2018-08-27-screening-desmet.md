@@ -2,7 +2,7 @@
 layout: post
 title: "Screening Desmet: reflections on the MIMEHIST-project and CLARIAH’s Media Suite."
 introduction: "Researcher Kathleen Lotze reflects about her experience as one of the first scholars who has worked in making available and searchable the Desmet paper collection via the CLARIAH Media Suite."
-date: 2018-07-11
+date: 2018-08-27
 ---
 
 **Screening Desmet: reflections on the MIMEHIST-project and CLARIAH’s Media Suite**
