@@ -47,5 +47,5 @@ Image 3:  Examples from the business archive documenting the film programs which
 
 Image 4: Screenshot of a test session, displaying the annotation tool in the Media Suite (left) and databases IMDb and Cinema Context (right).
 
-[^1]: "For more information about how the Media Suite has been built, see Ordelman, R., Martínez Ortiz, C., Melgar Estrada, L., Koolen, M., Blom, J., Melder, W., … Noordegraaf, J. (2018). Enabling Scholarly Research for Distributed Audiovisual and Mixed Media Data Sets in a Sustainable Infrastructure. Presented at the Digital Humanities, Mexico: DH2018."
-[^2]: Some of the terms and definitions I wrote in that preliminary glossary will be made publicly available in the Media Suite glossary (in construction): http://mediasuite.clariah.nl/documentation/glossary."
+[^1]: For more information about how the Media Suite has been built, see Ordelman, R., Martínez Ortiz, C., Melgar Estrada, L., Koolen, M., Blom, J., Melder, W., … Noordegraaf, J. (2018). Enabling Scholarly Research for Distributed Audiovisual and Mixed Media Data Sets in a Sustainable Infrastructure. Presented at the Digital Humanities, Mexico: DH2018."
+[^2]: Some of the terms and definitions I wrote in that preliminary glossary will be made publicly available in the Media Suite glossary (in construction): [http://mediasuite.clariah.nl/documentation/glossary.](http://mediasuite.clariah.nl/documentation/glossary)
