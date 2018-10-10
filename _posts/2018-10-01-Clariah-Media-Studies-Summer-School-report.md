@@ -22,4 +22,5 @@ The more than thirty participants worked in eight small research projects in whi
 **Further readings**
 
 - You can also read the [blog post](https://beeldengeluid.nl/kennis/blog/clariah-summer-school-2018) by one of the scholars (in Dutch) at the blog of the Netherlands Institute for Sound and Vision.
-- You can watch the short video report of the summer school here: https://vimeo.com/280716736.
+- You can watch the short video report of the summer school here: [https://vimeo.com/280716736](https://vimeo.com/280716736).
+
